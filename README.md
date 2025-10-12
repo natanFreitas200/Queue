@@ -145,4 +145,3 @@ Este projeto é de uso educacional e está disponível sob a licença MIT.
 
 ---
 
-⭐ **Nota:** Este projeto foi desenvolvido para fins educacionais para demonstrar diferentes implementações de estruturas de dados de fila em Java.
